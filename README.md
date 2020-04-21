@@ -1,11 +1,11 @@
 # CSS385UnityPlayground
 
-![Header](https://imgur.com/pYxC5RU)
+[Imgur](https://i.imgur.com/pYxC5RU.jpg)
 
 ## Overview
 This game was made unity the Unity Playground asset pack.  The project was designed to become familiar with Unity and scripting.  
 
-![Visual](https://imgur.com/AVpDYLD)
+[Imgur](https://i.imgur.com/AVpDYLD.png)
 
 This game is suppose to resemble air hockey.  
 
